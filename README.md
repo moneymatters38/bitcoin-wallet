@@ -4,10 +4,11 @@
 
 1) Secure storage of coins
    - Generate a wallet
+     
      Workflow:
-         a) Generate a source of randomness
-         b) Use PRNG to create mnemonic 
-         c) Convert mnemonic to a seed - used to generate wallet
+        - Generate a source of randomness
+        - Use PRNG to create mnemonic 
+        - Convert mnemonic to a seed - used to generate wallet
    - Authentication
     
    - Balance
