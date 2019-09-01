@@ -3,7 +3,13 @@
 *Features:*
 
 1) Secure storage of coins
+   - Generate a wallet
+     Workflow:
+         a) Generate a source of randomness
+         b) Use PRNG to create mnemonic 
+         c) Convert mnemonic to a seed - used to generate wallet
    - Authentication
+    
    - Balance
 
 2) Receive coins 
